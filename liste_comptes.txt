@@ -1,0 +1,29 @@
+Joueur              Mot de passe            Email
+
+player1             "password1"             john@example.com 
+player2             "password2"             jane@example.com 
+gamer123            "securepass"            alice@gmail.com 
+proGamer            "strongpassword"        bob@yahoo.com 
+gameMaster          "masterpass"            eva@example.com 
+playNow             "playpass"              michael@hotmail.com 
+onlinePlayer        "onlinepass"            sophie@gmail.com 
+gamingFan           "fanpass"               chris@yahoo.com 
+gameAddict          "addictpass"            emily@example.com 
+superGamer          "superpass"             alex@gmail.com 
+gameOn              "onpass"                mia@hotmail.com 
+playerX             "xpass"                 daniel@example.com 
+Xxx_DarkSasuke_xxX  "propass"          olivia@gmail.com 
+gameMastermind      "mindpass"              william@yahoo.com 
+gameChanger         "changerpass"           ava@example.com 
+playfulGamer        "playfulpass"           henry@hotmail.com 
+gamerGirl           "girlpass"              sophia@gmail.com 
+player3             "password3"             liam@example.com 
+gameLover           "loverpass"             emma@yahoo.com 
+playHard            "hardpass"              noah@hotmail.com 
+ 
+    
+    
+    
+    
+    
+    
